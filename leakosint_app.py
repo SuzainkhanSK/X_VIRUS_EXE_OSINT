@@ -788,7 +788,7 @@ with st.sidebar:
 # Main Search Interface
 st.markdown("### 🔍 TARGET SCAN")
 query = st.text_input(
-    "ENTER TARGET",
+    "ENTER TARGET" "(example: +919876543210)",
     placeholder="Phone/Email/Username...",
     value=st.session_state.get('search_query', ''),
     help="Enter identifier to scan",
