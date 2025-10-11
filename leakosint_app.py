@@ -10,7 +10,7 @@ import string
 
 # ================== CONFIGURATION ==================
 API_URL = "https://leakosintapi.com/"
-API_TOKEN = "6900195239:FbWSyiz4"
+API_TOKEN = "7885801908:D216JQbv"
 TELEGRAM_USERNAME = "@SuzainkhanSK"
 TELEGRAM_CHANNEL = "@SKModTechOfficial"
 DEVELOPER_NAME = "𝕏_𝕍𝕀ℝ𝕌𝕊_𝔼𝕏𝔼"
